@@ -9,3 +9,4 @@ insert_final_newline = true
 
 [*.md]
 trim_trailing_whitespace = false
+trim-trailing (string_exp[![Auto-merge PRs](https://github.com/firstcontributions/first-contributions/actions/workflows/auto-pr-merge.yml/badge.svg?event=create)](https://github.com/firstcontributions/first-contributions/actions/workflows/auto-pr-merge.yml))
